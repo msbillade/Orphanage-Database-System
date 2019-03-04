@@ -3,3 +3,5 @@ This a a mini project based on Java and MongoDB, developed on Netbeans 7.4 IDE.
 For demo purpose, both username and password field are set to "admin", to log-into the system.
 You will also need MongoDB server installed and running, in the backend.
 There is an image set-up as a backgroud for homepage. Please change the path to the image on your system.
+For connectivity to MongoDB, a driver file, 'mongo-java-driver-2.11.3.jar' is available in Sample/dist/lib.
+It must be imported in the project for Java and MongoDB connectivity.
